@@ -2,6 +2,12 @@
 
 An offline-first Android application designed for artisans and small business owners to manage sales, inventory, and analytics in a simple and visual way.
 
+#  Live Demo
+
+Try the application directly in your browser:
+
+👉 https://appetize.io/app/b_hd5sfli3mws3lt44wymdwaut5q
+
 ## 📌 Project Overview
 
 Hasta-Kala Shop is a micro-sales analytics and inventory management app built for local artisans and handicraft sellers. The application helps users track sales, manage stock, analyze product performance, and generate customer bills.
