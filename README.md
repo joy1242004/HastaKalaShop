@@ -148,35 +148,35 @@ This project is developed for educational and internship purposes.
 ##  Login Screen
 Simple and clean offline login system with demo account support.
 
-![](ss/login.png)
+![](screenshots/login.png)
 
 ---
 
 ##  Dashboard Screen
 Displays sales overview, stock alerts, product insights, and recent activity.
 
-![](ss/dashboard.png)
+![](screenshots/dashboard.png)
 
 ---
 
 ##  Analytics Screen
 Shows product-wise and color-wise sales analytics using charts and insights.
 
-![](ss/analytics.png)
+![](screenshots/analytics.png)
 
 ---
 
 ##  Billing Screen
 Quick billing system with customer details and invoice generation support.
 
-![](ss/billing.png)
+![](screenshots/billing.png)
 
 ---
 
 ##  Stock Management Screen
 Manage inventory with low stock alerts, out-of-stock tracking, and color-wise stock monitoring.
 
-![](ss/stock.png)
+![](screenshots/stock.png)
 
 
 
